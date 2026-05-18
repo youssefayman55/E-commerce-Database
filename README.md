@@ -27,13 +27,20 @@ The system is split into:
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture :
+
 📦 E-Commerce System
- ┣ 📜 main.py              # FastAPI backend
- ┣ 📜 app.py               # Streamlit frontend
- ┣ 📜 db_setup.py          # Database creation scripts
- ┣ 📜 seed_data.py         # Data insertion scripts
- ┣ 📜 SQL Queries/         # SQL schema & procedures
+
+ ┣ 📜 main.py  ==>  FastAPI backend
+ 
+ ┣ 📜 app.py   ==>  Streamlit frontend
+ 
+ ┣ 📜 db_setup.py ==>  Database creation scripts
+ 
+ ┣ 📜 seed_data.py  ==> Data insertion scripts
+ 
+ ┣ 📜 SQL Queries/  ==>  SQL schema & procedures
+ 
  ┗ 📜 README.md
 
 
